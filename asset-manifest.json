@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mmcard-webapp-demo/static/css/main.ab1f9313.css",
-    "main.js": "/mmcard-webapp-demo/static/js/main.33d4a587.js",
+    "main.js": "/mmcard-webapp-demo/static/js/main.d7e45bfe.js",
     "static/media/Montserrat-BoldItalic.woff": "/mmcard-webapp-demo/static/media/Montserrat-BoldItalic.b547006cbe2561bcfd08.woff",
     "static/media/Montserrat-ExtraBoldItalic.woff": "/mmcard-webapp-demo/static/media/Montserrat-ExtraBoldItalic.506bc4a1b94871060f27.woff",
     "static/media/Montserrat-BlackItalic.woff": "/mmcard-webapp-demo/static/media/Montserrat-BlackItalic.11a8f9ccb449b7e2d396.woff",
@@ -54,10 +54,10 @@
     "static/media/Dosis-ExtraLight.woff2": "/mmcard-webapp-demo/static/media/Dosis-ExtraLight.161a541c1f63cdc8dc0a.woff2",
     "index.html": "/mmcard-webapp-demo/index.html",
     "main.ab1f9313.css.map": "/mmcard-webapp-demo/static/css/main.ab1f9313.css.map",
-    "main.33d4a587.js.map": "/mmcard-webapp-demo/static/js/main.33d4a587.js.map"
+    "main.d7e45bfe.js.map": "/mmcard-webapp-demo/static/js/main.d7e45bfe.js.map"
   },
   "entrypoints": [
     "static/css/main.ab1f9313.css",
-    "static/js/main.33d4a587.js"
+    "static/js/main.d7e45bfe.js"
   ]
 }
